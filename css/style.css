@@ -67,10 +67,14 @@ img{
 .imageContainer {
     display: none; /* Ocultar la imagen por defecto */
     margin-top: 20px;
+    border-radius: 50%;
 }
 
 button {
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 3%;
 }
