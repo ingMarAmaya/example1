@@ -54,7 +54,7 @@ img{
     height: 300px;
 }
 
-body {
+/* body {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -62,9 +62,9 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
-}
+}*/
 
-.image-container {
+.imageContainer {
     display: none; /* Ocultar la imagen por defecto */
     margin-top: 20px;
 }
